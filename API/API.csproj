@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="StackExchange.Redis" Version="2.2.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\applePear\apple.jpg" />
+    <None Include="wwwroot\images\applePear\apple2.jpg" />
+    <None Include="wwwroot\images\applePear\greenapple.jpg" />
+    <None Include="wwwroot\images\applePear\pear.jpg" />
+    <None Include="wwwroot\images\applePear\pear2.jpg" />
+    <None Include="wwwroot\images\berries\blueberry.jpg" />
+    <None Include="wwwroot\images\berries\grapes.jpg" />
+    <None Include="wwwroot\images\berries\kiwi.jpg" />
+    <None Include="wwwroot\images\berries\rasberry.jpg" />
+    <None Include="wwwroot\images\berries\strawberry.jpg" />
+    <None Include="wwwroot\images\citrus\lemon.jpg" />
+    <None Include="wwwroot\images\citrus\mandarin.jpg" />
+    <None Include="wwwroot\images\citrus\orange.jpg" />
+    <None Include="wwwroot\images\citrus\peach.jpg" />
+    <None Include="wwwroot\images\melon\melon.jpg" />
+    <None Include="wwwroot\images\melon\watermelon.jpg" />
+    <None Include="wwwroot\images\tropical\banana.jpg" />
+    <None Include="wwwroot\images\tropical\mango.jpg" />
+    <None Include="wwwroot\images\tropical\papaya.jpg" />
+    <None Include="wwwroot\images\tropical\pineapple.jpg" />
+    <None Include="wwwroot\images\tropical\starfruit.jpg" />
+  </ItemGroup>
+
+</Project>

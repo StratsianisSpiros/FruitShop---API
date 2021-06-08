@@ -1,0 +1,22 @@
+[
+  {
+    "Id":  1,
+    "Name": "Apples And Pears"
+  },
+  {
+    "Id": 2,
+    "Name": "Berries"
+  },
+  {
+    "Id": 3,
+    "Name": "Citrus"
+  },
+  {
+    "Id": 4,
+    "Name": "Melon"
+  },
+  {
+    "Id": 5,
+    "Name": "Tropical"
+  }
+]

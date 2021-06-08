@@ -1,0 +1,170 @@
+[
+  {
+    "Name": "Red Apple",
+    "Description": "High quality apples of various sizes",
+    "Price": 3,
+    "PictureUrl": "images/applePear/apple.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Almost red apple",
+    "Description": "Sweet apple for all ages",
+    "Price": 5,
+    "PictureUrl": "images/applePear/apple2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Green Apple",
+    "Description": "Green apple for chilren and animals",
+    "Price": 4,
+    "PictureUrl": "images/applePear/greenapple.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Pear",
+    "Description": "Pear even for a bear",
+    "Price": 7,
+    "PictureUrl": "images/applePear/pear.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Pear",
+    "Description": "Small pears with many seeds",
+    "Price": 5,
+    "PictureUrl": "images/applePear/pear2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Grapes",
+    "Description": "Best grapes to make wine",
+    "Price": 10,
+    "PictureUrl": "images/berries/grapes.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Kiwi",
+    "Description": "Kiwi fruit for cocktails and drinks",
+    "Price": 9,
+    "PictureUrl": "images/berries/kiwi.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Strawberry",
+    "Description": "Top quality strawberry for your parrots",
+    "Price": 7,
+    "PictureUrl": "images/berries/strawberry.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Lemon",
+    "Description": "Yellow-green lemons for food and drink",
+    "Price": 3,
+    "PictureUrl": "images/citrus/lemon.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Mandarin",
+    "Description": "Seedless mandaring of superb quality on sale",
+    "Price": 6,
+    "PictureUrl": "images/citrus/mandarin.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Peach",
+    "Description": "The sweetest peach to eat with your wife",
+    "Price": 11,
+    "PictureUrl": "images/citrus/peach.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Orange",
+    "Description": "Yellowish orange to make juice and to throw",
+    "Price": 5,
+    "PictureUrl": "images/citrus/orange.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Melon",
+    "Description": "Melon melon on the wall",
+    "Price": 14,
+    "PictureUrl": "images/melon/melon.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Rasberry",
+    "Description": "Pink rasberries to eat and make cakes",
+    "Price": 2,
+    "PictureUrl": "images/berries/rasberry.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Watermelon",
+    "Description": "Watermelon of great quality for hot summer days and nights",
+    "Price": 12,
+    "PictureUrl": "images/melon/watermelon.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Banana",
+    "Description": "Best collection of banana worldwide",
+    "Price": 3,
+    "PictureUrl": "images/tropical/banana.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Mango",
+    "Description": "It takes two to eat a mango",
+    "Price": 13,
+    "PictureUrl": "images/tropical/mango.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Papaya",
+    "Description": "Fresh papaya fruit, best price online",
+    "Price": 16,
+    "PictureUrl": "images/tropical/papaya.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Pineapple",
+    "Description": "Whole pineapples for sale on lowest cost",
+    "Price": 12,
+    "PictureUrl": "images/tropical/pineapple.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Star Fruit",
+    "Description": "Freshly collected star fruits straight from the midnight sky",
+    "Price": 18,
+    "PictureUrl": "images/tropical/starfruit.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Blueberry",
+    "Description": "Blue berries from local farmers",
+    "Price": 4,
+    "PictureUrl": "images/berries/blueberry.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  }
+]
